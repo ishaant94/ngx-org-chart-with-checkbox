@@ -1,0 +1,32 @@
+{
+  "name": "ngx-org-chart-with-checkbox",
+  "version": "1.1.0",
+  "description": "Hierarchical Organization Chart",
+  "keywords": [
+    "org-chart",
+    "organization",
+    "hierarchical",
+    "organization chart",
+    "hierarchical chart",
+    "angular",
+    "ng",
+    "angular 8"
+  ],
+  "author": "Ishan Tewari",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mumincelal/ngx-org-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mumincelal/ngx-org-ui/issues"
+  },
+  "homepage": "https://github.com/mumincelal/ngx-org-ui",
+  "peerDependencies": {
+    "@angular/common": "^8.2.0",
+    "@angular/core": "^8.2.0"
+  }
+}
